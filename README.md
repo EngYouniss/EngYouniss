@@ -18,14 +18,13 @@
 | Laravel • PHP • Livewire • MySQL | Angular • TypeScript • JavaScript • Bootstrap • TailwindCSS | Docker • GitHub Actions • Firebase • Git |
 
 **Architecture:** RESTful APIs · Role-Based Access · Clean Code  
-**Practices:** Agile & Scrum · CI/CD Pipelines · Test-Driven Development  
+**Practices:** Agile & Scrum   
 
 ---
 
 ## 📚 Currently Learning
 - Advanced **Angular patterns** & scalable UI design  
-- **DevOps automation** with Docker & GitHub Actions  
-- Cloud deployment (**AWS / Azure**)  
+- **DevOps automation** with Docker & GitHub Actions    
 
 ---
 
@@ -35,18 +34,10 @@
 |---------|-------|------------|
 | 🎓 [Academic Plus](https://github.com/EngYouniss/academic-plus-project-laravel) | Laravel · Filament Dashboard | Educational platform with role-based access, courses & references |
 | 🛒 [E-Commerce Platform](https://github.com/EngYouniss/shopping-project-laravel-livewire) | Laravel · Livewire | Complete e-commerce with cart, orders & responsive UI |
-| 📰 [Blogs Website](https://github.com/EngYouniss/blogs-website-project) | Laravel · Angular | Blogging system with user roles & category-based articles |
+| 📰 [Blogs Website](https://github.com/EngYouniss/blogs-website-project) | Laravel  | Blogging system with user roles & category-based articles |
 | 📱 E-Commerce Mobile App | Flutter · Firebase | Shopping app with Firebase Auth, API integration & state management |
 
 👉 Want to see more? Check the **Pinned Repositories** below ⬇️  
-
----
-
-## 💼 Experience
-- **Intern – Tech-Cell (June–July 2025)**  
-  Developed backend features with Laravel & REST APIs, collaborated in Agile environment, and gained production-level experience.  
-- **Full-Stack Development**: Delivered multiple apps combining **Laravel, Livewire, Angular**.  
-- **Flutter Mobile Apps**: Built cross-platform apps integrated with Firebase and REST APIs.  
 
 ---
 
@@ -66,7 +57,7 @@
 ## 🌱 How to Reach Me
 - 📫 Email: **younistallan@gmail.com**  
 - ☎️ Phone / WhatsApp: **+967 771985327**  
-- 🔗 LinkedIn: [Younis Tallan](https://linkedin.com/in/your-profile)  
+- 🔗 LinkedIn: [Younis Tallan](https://linkedin.com/in/younis-tallan)  
 - 📍 Location: **Sana’a, Yemen**  
 
 ---
