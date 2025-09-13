@@ -1,25 +1,31 @@
-👋🏽 Hello, I'm **Younis Mohammed Hizam Tallan**  
-Laravel Full-Stack Developer • Angular • Flutter • MySQL  
+<!-- Header -->
+<h1 align="center">👋🏽 Hello, I'm Younis Mohammed Hizam Tallan</h1>
+<h3 align="center">Laravel Full-Stack Developer • Angular • Flutter • MySQL</h3>
 
-[LinkedIn](https://linkedin.com/in/your-profile) • [Email](mailto:younistallan@gmail.com) • [Portfolio](#) • [GitHub Profile](https://github.com/EngYouniss) • ![Profile Views](https://komarev.com/ghpvc/?username=EngYouniss&style=flat)
+<p align="center">
+  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:younistallan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+  <a href="https://github.com/EngYouniss"><img src="https://komarev.com/ghpvc/?username=EngYouniss&style=for-the-badge&color=blue" alt="profile views"/></a>
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Backend | Frontend | Dev & Ops |
-|---------|----------|-----------|
-| Laravel • PHP • Livewire • MySQL | Angular • JavaScript • TypeScript • Bootstrap • TailwindCSS | Docker • GitHub Actions • Firebase |
+| **Backend** | **Frontend** | **DevOps & Tools** |
+|-------------|--------------|--------------------|
+| Laravel • PHP • Livewire • MySQL | Angular • TypeScript • JavaScript • Bootstrap • TailwindCSS | Docker • GitHub Actions • Firebase • Git |
 
 **Architecture:** RESTful APIs · Role-Based Access · Clean Code  
-**Practices:** Agile & Scrum · CI/CD (GitHub Actions, Docker)  
+**Practices:** Agile & Scrum · CI/CD Pipelines · Test-Driven Development  
 
 ---
 
 ## 📚 Currently Learning
-- Advanced Angular patterns & scalable UI design  
-- DevOps workflows & automation  
-- Cloud deployment (AWS / Azure)  
+- Advanced **Angular patterns** & scalable UI design  
+- **DevOps automation** with Docker & GitHub Actions  
+- Cloud deployment (**AWS / Azure**)  
 
 ---
 
@@ -27,28 +33,42 @@ Laravel Full-Stack Developer • Angular • Flutter • MySQL
 
 | Project | Stack | Highlights |
 |---------|-------|------------|
-| **Academic Plus** | Laravel · Filament Dashboard | Educational platform with courses, references & role-based access |
-| **E-Commerce Platform** | Laravel · Livewire | Full shopping experience with cart & order workflows |
-| **Blogs Website** | Laravel · Angular | Role-based blogging system with categories & authentication |
-| **E-Commerce Mobile App** | Flutter · Firebase | Mobile shopping app with Firebase Auth & API integration |
+| 🎓 [Academic Plus](https://github.com/EngYouniss/academic-plus-project-laravel) | Laravel · Filament Dashboard | Educational platform with role-based access, courses & references |
+| 🛒 [E-Commerce Platform](https://github.com/EngYouniss/shopping-project-laravel-livewire) | Laravel · Livewire | Complete e-commerce with cart, orders & responsive UI |
+| 📰 [Blogs Website](https://github.com/EngYouniss/blogs-website-project) | Laravel · Angular | Blogging system with user roles & category-based articles |
+| 📱 E-Commerce Mobile App | Flutter · Firebase | Shopping app with Firebase Auth, API integration & state management |
 
-👉 Want to know more? Check my **Pinned Repositories** below ⬇️  
+👉 Want to see more? Check the **Pinned Repositories** below ⬇️  
 
 ---
 
-## 🌱 How to Reach Me
-📫 Email: **younistallan@gmail.com**  
-☎️ Phone / WhatsApp: **+967 771985327**  
-📍 Location: Sana’a, Yemen  
+## 💼 Experience
+- **Intern – Tech-Cell (June–July 2025)**  
+  Developed backend features with Laravel & REST APIs, collaborated in Agile environment, and gained production-level experience.  
+- **Full-Stack Development**: Delivered multiple apps combining **Laravel, Livewire, Angular**.  
+- **Flutter Mobile Apps**: Built cross-platform apps integrated with Firebase and REST APIs.  
 
 ---
 
 ## 📈 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EngYouniss&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngYouniss&layout=compact&theme=radical" height="160" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=EngYouniss&theme=radical" height="160" />
 </p>
 
 ---
 
-> “Clean code is not written once — every commit is an opportunity for improvement.”
+## 🌱 How to Reach Me
+- 📫 Email: **younistallan@gmail.com**  
+- ☎️ Phone / WhatsApp: **+967 771985327**  
+- 🔗 LinkedIn: [Younis Tallan](https://linkedin.com/in/your-profile)  
+- 📍 Location: **Sana’a, Yemen**  
+
+---
+
+<p align="center"><b>“Clean code is not written once — every commit is an opportunity for improvement.”</b></p>
