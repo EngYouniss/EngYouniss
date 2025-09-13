@@ -1,64 +1,54 @@
-# Hello, I’m Younis Mohammed Hizam Tallan
+👋🏽 Hello, I'm **Younis Mohammed Hizam Tallan**  
+Laravel Full-Stack Developer • Angular • Flutter • MySQL  
 
-**Laravel Full Stack Developer • Angular Enthusiast**
+[LinkedIn](https://linkedin.com/in/your-profile) • [Email](mailto:younistallan@gmail.com) • [Portfolio](#) • [GitHub Profile](https://github.com/EngYouniss) • ![Profile Views](https://komarev.com/ghpvc/?username=EngYouniss&style=flat)
 
 ---
 
-## 🛠 Tech Stack & Practices
+## 🛠️ Tech Stack
 
-Backend | Frontend | DevOps  
-:--|:--|:--  
-Laravel • Livewire • PHP • MySQL | Angular • JavaScript • Bootstrap • TailwindCSS | Docker • REST APIs • Git • CI/CD  
+| Backend | Frontend | Dev & Ops |
+|---------|----------|-----------|
+| Laravel • PHP • Livewire • MySQL | Angular • JavaScript • TypeScript • Bootstrap • TailwindCSS | Docker • GitHub Actions • Firebase |
 
-**Practices & Architecture**: Clean Code • Agile / Scrum • RESTful API design • Role-based Access Control  
+**Architecture:** RESTful APIs · Role-Based Access · Clean Code  
+**Practices:** Agile & Scrum · CI/CD (GitHub Actions, Docker)  
 
 ---
 
 ## 📚 Currently Learning
-
-- Advanced Angular Patterns  
-- Building scalable frontend architectures  
-- DevOps workflows & CI/CD pipelines  
+- Advanced Angular patterns & scalable UI design  
+- DevOps workflows & automation  
 - Cloud deployment (AWS / Azure)  
 
 ---
 
-## 🌟 Featured Projects
+## 🏆 Featured Projects
 
-| Project | Tech Highlights |
-|---|---|
-| **Academic Plus** | Laravel backend, Filament Dashboard, role-based access, optimized performance |
-| **E-Commerce Platform** | Laravel + Livewire, responsive UI, full cart/order workflows |
-| **Blogs Website** | User Roles (Admin / Editor / Viewer), category-based articles, clean UI |
-| **E-Commerce Mobile App** | Flutter, Firebase Auth, API integration, state management |
+| Project | Stack | Highlights |
+|---------|-------|------------|
+| **Academic Plus** | Laravel · Filament Dashboard | Educational platform with courses, references & role-based access |
+| **E-Commerce Platform** | Laravel · Livewire | Full shopping experience with cart & order workflows |
+| **Blogs Website** | Laravel · Angular | Role-based blogging system with categories & authentication |
+| **E-Commerce Mobile App** | Flutter · Firebase | Mobile shopping app with Firebase Auth & API integration |
 
----
-
-## 💼 Experience Snapshot
-
-- **Intern – Tech-Cell** (June - July 2025)  
-  Backend development with Laravel & REST APIs, collaborated in Agile environment, delivered maintainable, production-ready code.
-
-- Hands-on with full-stack web apps and mobile apps, bridging backend logic and frontend UX.
+👉 Want to know more? Check my **Pinned Repositories** below ⬇️  
 
 ---
 
-## 📊 GitHub Stats
+## 🌱 How to Reach Me
+📫 Email: **younistallan@gmail.com**  
+☎️ Phone / WhatsApp: **+967 771985327**  
+📍 Location: Sana’a, Yemen  
 
+---
+
+## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EngYouniss&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngYouniss&layout=compact&theme=radical" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EngYouniss&theme=radical" height="160" />
 </p>
 
 ---
 
-## 📫 Contact Me
-
-- Email: **younistallan@gmail.com**  
-- Phone: **+967 771985327**  
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)  
-- Location: Sana'a, Yemen  
-
----
-
-> “Clean code, continuous improvement, impactful solutions.”  
+> “Clean code is not written once — every commit is an opportunity for improvement.”
